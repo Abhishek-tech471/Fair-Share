@@ -1,1 +1,1 @@
-# SpitWise
+# Fair Share
