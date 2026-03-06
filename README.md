@@ -220,7 +220,7 @@ This reduces the number of required transactions.
 
 ## Clone the Repository
 ```
-git clone https://github.com/your-username/fair-share.git
+git clone [https://github.com/your-username/fair-share.git](https://github.com/Abhishek-tech471/Fair-Share)
 cd fair-share
 ```
 
